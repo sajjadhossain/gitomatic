@@ -9,7 +9,6 @@
   "author": "sajjad hossain",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^3.2.0",
-    "octonode": "^0.7.9"
+    "mocha": "^3.2.0"
   }
 }
